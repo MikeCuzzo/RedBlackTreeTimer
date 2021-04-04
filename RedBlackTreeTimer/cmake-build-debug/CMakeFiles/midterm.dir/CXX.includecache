@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/AVLTree/AVLTree.h
+iostream
+-
+
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/RBTree/RBTree.h
+
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/main.cpp
+test.h
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/test.h
+
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/test.cpp
+test.h
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/test.h
+
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/test.h
+chrono
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/chrono
+iostream
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/iostream
+AVLTree/AVLTree.h
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/AVLTree/AVLTree.h
+RBTree/RBTree.h
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/RBTree/RBTree.h
+vector
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/vector
+stdlib.h
+/home/mcuzzo/Desktop/RedBlackTreeTimer/src/stdlib.h
+
